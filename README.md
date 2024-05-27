@@ -13,3 +13,7 @@ My name is Nguyen Ngoc Quynh Giang. I am an undergraduate in Mathematics and Com
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngocquynhgiang&repo=GEMINI-AI-Web-App&show_icons=true&theme=radical" />
 </a>    
+<a href="https://github.com/nguyenngocquynhgiang/Building-a-Retail-Data-Pipeline">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngocquynhgiang&repo=Building-a-Retail-Data-Pipeline&show_icons=true&theme=radical" />
+</a>    
