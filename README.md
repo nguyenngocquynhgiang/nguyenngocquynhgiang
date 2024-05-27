@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**nguyenngocquynhgiang/nguyenngocquynhgiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  📌 WELCOME TO MY PAGE 
+My name is Nguyen Ngoc Quynh Giang. I am an undergraduate in Mathematics and Computer Science, majoring in Artificial Intelligence and Data Sciences at University of Science. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.
 
-Here are some ideas to get you started:
+ ## 🌱 Let's reach me by 🌱:
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nguy%E1%BB%85n-ng%E1%BB%8Dc-giang/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Giang's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenngocquynhgiang&hide=contribs,prs&show_icons=true&theme=radical)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nguyenngocquynhgiang&repo=GEMINI-AI-Web-App&show_icons=true&theme=radical)](https://github.com/nguyenngocquynhgiang/GEMINI-AI-Web-App)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nguyenngocquynhgiang&repo=Building-a-Retail-Data-Pipeline&show_icons=true&theme=gruvbox)](https://github.com/nguyenngocquynhgiang/Building-a-Retail-Data-Pipeline/tree/master)
+
+
