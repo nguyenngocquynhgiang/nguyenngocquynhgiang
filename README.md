@@ -21,5 +21,8 @@ My name is Nguyen Ngoc Quynh Giang. I am an undergraduate in Mathematics and Com
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngocquynhgiang&repo=Classify-Song-Genres-from-Audio-Data.&show_icons=true&theme=gruvbox" />
 </a>  
-
+<a href="https://github.com/nguyenngocquynhgiang/Sentiment-Analysis-Web-App-using-Python-Streamlit">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngocquynhgiang&repo=Sentiment-Analysis-Web-App-using-Python-Streamlit&show_icons=true&theme=gruvbox" />
+</a>  
 
