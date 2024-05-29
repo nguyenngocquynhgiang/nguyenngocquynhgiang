@@ -5,7 +5,7 @@ My name is Nguyen Ngoc Quynh Giang. I am an undergraduate in Mathematics and Com
  ## 🌱 Let's reach me by 🌱:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nguy%E1%BB%85n-ng%E1%BB%8Dc-giang/)  [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/nguyenngocquynhgiang) 
 
-[![Gmail](![image](https://github.com/nguyenngocquynhgiang/nguyenngocquynhgiang/assets/135851627/a7d0fb55-865e-41e1-9d2c-7827056b06ba))[https://mail.google.com/mail/u/1/#inbox]
+[![Gmail](giangnguyenngocquynh2909@gmail.com)
 
 ![Giang's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenngocquynhgiang&hide=contribs,prs&show_icons=true&theme=radical)
 
