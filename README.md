@@ -3,17 +3,7 @@
 My name is Nguyen Ngoc Quynh Giang. I am an undergraduate in Mathematics and Computer Science, majoring in Artificial Intelligence and Data Sciences at University of Science. I am interested in the following topics: Machine Learning, Deep Learning and Natural Language Processing
 
  ## 🌱 Let's reach me by 🌱:
-<a href="https://www.linkedin.com/in/nguy%E1%BB%85n-ng%E1%BB%8Dc-giang/">
-  <img src="https://i.stack.imgur.com/gVE0j.png" alt="LinkedIn" />
-</a>
-<a href="https://github.com/nguyenngocquynhgiang">
-  <img src="https://i.stack.imgur.com/tskMh.png" alt="GitHub" />
- 
-</a>
-<a href="mailto:giangnguyenngocquynh2909@gmail.com">
-  <img src="https://i.stack.imgur.com/0YIh2.png" alt="Gmail" />
-</a>
-
+ [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nguy%E1%BB%85n-ng%E1%BB%8Dc-giang/)  [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/nguyenngocquynhgiang) 
 
 
 
